@@ -138,7 +138,7 @@ video{
     position: absolute;
     right: 290px;
     top: 1760px;
-    border-radius: 30px;
+   
 }
 .faq-section{
     width: 100%;
@@ -389,13 +389,18 @@ margin-right: 30px;
     }
 
     video{
-        margin-top: 25px;
+   width: 40%;
+   position: absolute;
+   right: 110px;
+   top: 1570px;
+   border-radius: 0;
+
       
     }
 
     .faq-section h5{
-        font-size: 30px;
-        margin-right: 45px;
+        font-size: 25px;
+        margin-right: 30px;
     }
     .faq-container{
         width: 100%;
